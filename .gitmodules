@@ -1,0 +1,3 @@
+[submodule "apps/backend"]
+	path = apps/backend
+	url = https://github.com/oktavianusmatthew1010/live_tracking_apps.git
